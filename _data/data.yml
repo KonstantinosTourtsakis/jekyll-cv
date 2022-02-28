@@ -6,7 +6,7 @@ fork: true
 contact:
   email: p19tour@ionio.gr 
   github: KonstantinosTourtsakis 
-  linkedin: Konstantinos Tourtsakis 
+  linkedin: Konstantinos Tourtsakis
   phone: 69******** 
 
 languages:
@@ -57,14 +57,13 @@ projects:
       Modding games in Online modes is prohibited, therefore users need to uninstall
       any previously installed singleplayer mods to avoid getting banned from the 
       Online mode.
-
- - title: ProgrammaP2019
-   link: https://github.com/KonstantinosTourtsakis/ProgrammaP2019
-   details: |
+      
+  - title: ProgrammaP2019
+    link: https://github.com/KonstantinosTourtsakis/ProgrammaP2019
+    details: |
       ProgrammaP2019 is a static website hosted on GitHub. This website was used
       to make it easier attending to the online lectures on the Ionian University
       during lockdowns.
       It pretty much included a table of the semester's schedule where the
       user could find a link to the corresponding lecture. This made it easier and
       faster joining these online lectures.
-
