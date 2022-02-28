@@ -2,7 +2,7 @@ title: CV | Constantine Tourtsakis
 description:  My CV
 url: https://konstantinostourtsakis.github.io/jekyll-cv/
 baseurl: /jekyll-cv
-theme_skin: red
+theme_skin: blue
 
 sass:
   sass_dir: _sass
